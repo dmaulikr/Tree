@@ -1,0 +1,81 @@
+["Universe",
+	["Choose Your Category",
+		["FITNESS",
+			["Exercise"],
+            ["Go to the gym"],
+            ["Go Running"],
+            ["Go Biking"],
+            ["Lift Weights"],
+            ["Do Yoga"],
+            ["Play Sports"]
+		],
+     
+		["DIET",
+			["Drink More Water Daily"],
+			["Eat More Fruits and Vegetables"],
+			["Limit Carb Eating"],
+		 	["No Dessert on Weekdays"],
+			["Limit Soda Drinking"],
+            ["Decrease Red Meat Consumption"],
+            ["Decrease Alcohol Consumption"]
+		],
+		
+		["RELATIONSHIPS",
+			["Be more grateful"],
+            ["Call parent/s"],
+            ["Keep in touch with friends"],
+            ["Smile more"]
+		],
+        ["TIME",
+            ["Be on time for appointments"],
+            ["Don't be late for meetings"],
+            ["Wake up early"],
+            ["Go to bed early"]
+         
+        ],
+         
+        ["CLEANLINESS",
+            ["Keep your room clean and neat"],
+            ["Keep your clothing clean"],
+            ["Keep your body clean"],
+            ["Brush your teeth more"],
+            ["Wash your hands more"]
+         ],
+        ["RESOLUTION",
+            ["Set daily goals"],
+            ["Set weekly goals"],
+            ["Set monthly goals"],
+            ["Set new year's resolutions"],
+            ["Review resolutions already set daily"]
+        ],
+          
+        ["TRANQUILITY",
+            ["Learn something new"],
+            ["Remember to enjoy life"],
+            ["Meditate"],
+            ["Pray"],
+            ["Listen to music"],
+            ["Watch a relaxing show/movie/Youtube clip"],
+            ["Read"],
+            ["Write"]
+        ],
+
+        ["FRUGALITY",
+            ["Save money"],
+            ["Track spending"],
+            ["Cook more, go out to eat less"],
+            ["Make your own coffee daily"],
+            ["Give charity"],
+            ["Buy in bulk"]
+        ],
+          
+        ["SILENCE",
+            ["Talk less than you listen"],
+            ["Do not interrupt people while they speak"],
+            ["Do not speak badly about others"],
+            ["Do not use foul language"]
+        ],
+
+	]
+ 
+]
